@@ -8,11 +8,14 @@ I’m a full-stack developer focused on building real products, not just demos. 
 - Using AI to think better, not faster
 
 ### Skills & Technologies
-**Languages:** JavaScript, TypeScript
-**Frontend:** React, Next.js
-**Backend:** Node.js
-**Databases:** PostgreSQL, MongoDB
-**Tools:** Git, GitHub
+
+| Category | Skills |
+| --- | --- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=nodedotjs&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white) |
 
 ### Stats
 <p align="left">
