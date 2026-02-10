@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I’m Wayles.
 
-<!--
-**Wayles-D/Wayles-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer focused on building real products, not just demos. I learn by shipping, breaking things, and fixing them. I use AI as a thinking partner, not a shortcut.
 
-Here are some ideas to get you started:
+### Currently focused on
+- Building real-world products
+- Learning by shipping, not tutorials
+- Using AI to think better, not faster
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Technologies
+**Languages:** JavaScript, TypeScript
+**Frontend:** React, Next.js
+**Backend:** Node.js
+**Databases:** PostgreSQL, MongoDB
+**Tools:** Git, GitHub
+
+### Stats
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Wayles-D&show_icons=true&theme=transparent&hide_border=true" alt="Wayles's GitHub stats" height="150" />
+  </a>
+  <a href="https://github.com/streak-stats/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Wayles-D&theme=transparent&hide_border=true" alt="Wayles's GitHub streak" height="150" />
+  </a>
+</p>
+
+### Notes
+- Progress over polish
+- Clarity over noise
+
+---
+[Website](https://wayles-portfolio.vercel.app/) • [Twitter/X](https://wayles-portfolio.vercel.app/)
