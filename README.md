@@ -1,11 +1,9 @@
   # Hi, I’m Wayles.
 
-I’m a full-stack developer focused on building real products, not just demos. I learn by shipping, breaking things, and fixing them. I use AI as a thinking partner, not a shortcut.
-
+I’m a full-stack developer focused on building real products, not just demos. I learn by shipping, breaking things, and fixing them.
 ### Currently focused on
 - Building real-world products
 - Learning by shipping, not tutorials
-- Using AI to think better, not faster
 
 ### Skills & Technologies
 
