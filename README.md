@@ -1,4 +1,4 @@
-                                                                        # Hi, I’m Wayles.
+  # Hi, I’m Wayles.
 
 I’m a full-stack developer focused on building real products, not just demos. I learn by shipping, breaking things, and fixing them. I use AI as a thinking partner, not a shortcut.
 
