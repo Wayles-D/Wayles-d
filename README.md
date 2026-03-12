@@ -1,6 +1,6 @@
   # Hi, I’m Wayles.
 
-I’m a full-stack developer focused on building real products, not just demos. I learn by shipping, breaking things, and fixing them.
+I’m a full-stack developer focused on building real products. I learn by shipping, breaking things, and fixing them.
 ### Currently focused on
 - Building real-world products
 - Learning by shipping, not tutorials
