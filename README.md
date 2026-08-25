@@ -26,9 +26,7 @@ I’m a full-stack developer focused on building real products. I learn by shipp
 </p>
 
 ### Notes
-- Progress over polish
-- Clarity over noise
-- My best projects are private 😂 
+- My best projects are private
 
 ---
 [Website](https://wayles-portfolio.vercel.app/) • [Twitter/X](https://wayles-portfolio.vercel.app/)
